@@ -1,0 +1,22 @@
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no">
+<script src="https://unpkg.com/d3@3/d3.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/function-plot/1.18.1/function-plot.js"></script>
+<script type="module" src="script.js"></script>
+<style>
+    body {
+        text-align: center;
+    }
+    .setup {
+        width: 30px
+    }
+    .large {
+        width: 100px
+    }
+</style>
+<lavel for="funcString">実行する関数 : </lavel><input class="setup large" id="funcString" value="x*x-2"><br>
+<lavel for="bisStart">二分法Xの開始地点 : </lavel><input class="setup" id="bisStart" value="0">
+<lavel for="bisEnd">二分法Xの終了地点 : </lavel><input class="setup" id="bisEnd" value="5">
+<lavel for="newStart">ニュートン法の初期地点 : </lavel><input class="setup" id="newStart" value="5">
+<lavel for="margin">許容する誤差 : </lavel><input class="setup large" id="margin" value="0.000001">
+<div id="app"></div>
