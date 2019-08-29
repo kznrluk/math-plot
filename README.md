@@ -8,5 +8,8 @@
 * グラフの拡大縮小
 
 ![sample1](https://raw.githubusercontent.com/kznrluk/math-plot/sample/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202019-08-29%2013.54.17.png)
+
+---
+
 ![sample1](https://raw.githubusercontent.com/kznrluk/math-plot/sample/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202019-08-29%2013.54.38.png)
 
